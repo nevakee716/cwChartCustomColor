@@ -1,0 +1,21 @@
+{
+  "name": "cwChartCustomColor",
+  "version": "0.0.0",
+  "description": "Allow you to change chart color according to the view",
+  "main": "src/cwChartCustomColor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevakee716/cwChartCustomColor.git"
+  },
+  "author": "Mathias Pfauwadel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nevakee716/cwChartCustomColor/issues"
+  },
+  "homepage": "https://github.com/nevakee716/cwChartCustomColor/wiki",
+  "wiki": "https://github.com/nevakee716/cwChartCustomColor/wiki",
+  "evolve-version": "4.0 - 4.1"
+}
