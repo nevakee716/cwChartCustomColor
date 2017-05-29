@@ -7,6 +7,8 @@
     *********************************************************************************/
     cwCustomerSiteActions.cwChartCustomColors = {};
     cwCustomerSiteActions.cwChartCustomColors.ColorByView = {};
+
+    // custom colors for specifics views
     cwCustomerSiteActions.cwChartCustomColors.ColorByView.index_process_lifecycle_deliver = ['#0A5294','#093395','#091397','#200899','#42089B','#65089D','#89079F','#A10795','#A30773','#A5064F','#A7062B','#A90505','#AB2B05','#AD5204','#AF7A04','#B1A303','#98B303','#71B502','#48B702','#1FB901','#01BB0D','#00BD38','#00BF64'];
    
 
