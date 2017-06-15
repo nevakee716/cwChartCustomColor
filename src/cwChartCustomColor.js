@@ -62,6 +62,7 @@
     /********************************************************************************
     Configs : add trigger for single and index
     *********************************************************************************/
+    if(cwAPI.customLibs === undefined) { cwAPI.customLibs = {};}
     if(cwAPI.customLibs.doActionForSingle === undefined) { cwAPI.customLibs.doActionForSingle = {};}
     if(cwAPI.customLibs.doActionForIndex === undefined) { cwAPI.customLibs.doActionForIndex = {};}
     cwAPI.customLibs.doActionForSingle.cwChartCustomColors = cwCustomerSiteActions.cwChartCustomColors.changeColors; 
