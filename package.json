@@ -1,6 +1,6 @@
 {
   "name": "cwChartCustomColor",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Allow you to change chart color according to the view",
   "main": "src/cwChartCustomColor.js",
   "scripts": {
